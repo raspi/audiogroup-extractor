@@ -4,6 +4,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
+	"github.com/raspi/audiogroup-extractor/reader"
 	"io"
 	"os"
 	"path"
